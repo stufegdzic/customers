@@ -1,3 +1,3 @@
 type: service-2
 values: |
-  message: customer-1 service-2 overriden value
+  message: customer-1 service-2 overridden value
