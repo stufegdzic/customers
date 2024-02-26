@@ -1,4 +1,0 @@
-type: service-2
-values: |
-  message: customer-2 service-2 overriden value 3
-  replicaCount: 1
